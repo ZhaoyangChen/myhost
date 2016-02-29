@@ -1,0 +1,1 @@
+<script src="test.js"></script><link rel="stylesheet" href="test.css"><canvas id="c"></canvas><div class="info">Click to add gravity point.</div>
