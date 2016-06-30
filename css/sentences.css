@@ -1,1 +1,0 @@
-#backgroundImage {	position: absolute;	width: 100%;	z-index:-1;	opacity: 0.5;}#sentencesList {	width:20%;	float: left;	margin-top: 5%;	margin-left: 5%;	text-align: center;}#sentencesContent {	width:65%;	float: right;	margin-top: 5%;	margin-right: 5%;	text-align: left;}#listContainer {	padding:0;}.list-group {	margin-bottom: 0;}
