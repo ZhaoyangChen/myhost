@@ -304,4 +304,10 @@ function vogue_register_required_plugins() {
 
 	tgmpa( $plugins, $config );
 }
+
+//找回上传设置
+if(get_option('upload_path')=='wp-content/uploads' || get_option('upload_path')==null) {
+    update_option('upload_path',WP_CONTENT_DIR.'/uploads');
+}
+
 add_action( 'tgmpa_register', 'vogue_register_required_plugins' );
