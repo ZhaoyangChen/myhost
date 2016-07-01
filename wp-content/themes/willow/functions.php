@@ -25,4 +25,10 @@ function willow_add_script() {
     wp_enqueue_script('willow');
     wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
 }
+
+//找回上传设置
+if(get_option('upload_path')=='wp-content/uploads' || get_option('upload_path')==null) {
+    update_option('upload_path',WP_CONTENT_DIR.'/uploads');
+}
+
 add_action('wp_enqueue_scripts', 'willow_add_script');
