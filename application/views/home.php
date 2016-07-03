@@ -3,11 +3,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="stylesheet" href="application/views/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="application/views/css/home.css" />
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="assets/css/home.css" />
 
-	<script src="application/views/js/jquery-3.0.0.min.js"></script>
-	<script src="application/views/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery-3.0.0.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
 
 	<meta charset="utf-8">
 	<title>Royan's</title>
