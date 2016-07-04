@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 		<div>
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="#">藏锋</a></li>
+				<li ><a href="#">藏锋</a></li>
 				<li ><a href="#">聆夜</a></li>
 				<li ><a href="#">昭言</a></li>
 				<li ><a href="#">埋名</a></li>
@@ -32,7 +32,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="page-header">
 	</div>
 
-	<div>
+	<div class="page-body">
+		<div class="portrait">
+		</div>
 	</div>
 </body>
 </html>
