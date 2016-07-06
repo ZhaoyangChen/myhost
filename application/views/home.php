@@ -15,16 +15,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <body>
 	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
-		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Royan's</a>
-		</div>
 		<div>
 			<ul class="nav navbar-nav">
-				<li ><a href="#">藏锋</a></li>
-				<li ><a href="#">聆夜</a></li>
+				<li class="active"><a href="#">藏锋</a></li>
 				<li ><a href="#">昭言</a></li>
 				<li ><a href="#">埋名</a></li>
-				<li ><a href="#">博主太懒,睡一会儿再来开工</a></li>
+				<li ><a href="#">莳花</a></li>
+				<li ><a href="#">聆夜</a></li>
 			</ul>
 		</div>
 	</nav>
