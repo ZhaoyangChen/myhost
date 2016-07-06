@@ -38,42 +38,53 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div id="self-des" class="panel panel-default">
 			<div class="panel-body">
 				<h2>Royan Chen</h2>
-				<div class="col-lg-3">
+
+				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/china.jpg">
-					<h2>天朝</h2>
+					<h3>天朝</h3>
 					<p>富强、民主、文明、和谐</p>
 					<p>自由、平等、公正、法治</p>
-
 				</div>
-				<div class="col-lg-3">
+				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/zju2.jpg">
-					<h2>老和山职业技术学院</h2>
+					<h3>老和山职业技术学院</h3>
 					<p>诸位在校，有两个问题应该自己问问，第一，到浙大来做什么？第二，将来毕业后做什么样的人？</p>
 				</div>
 
-				<div class="col-lg-3">
-					<img class="circleTag" src="/assets/image/male.png">
-					<h2>直男癌</h2>
-					<p>我靠, 前面开车技术这么烂, 肯定是个女的!</p>
-
+				<div class="col-md-3">
+					<img class="circleTag" src="/assets/image/sfu.png">
+					<h3>Simon Fraser</h3>
+					<p>We are ready</p>
 				</div>
 
-				<div class="col-lg-3">
+				<div class="col-md-3">
+					<img class="circleTag" src="/assets/image/male.png">
+					<h3>直男癌</h3>
+					<p>我靠, 前面开车技术这么烂, 肯定是个女的!</p>
+				</div>
+
+				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/operator.png">
-					<h2>搬砖工</h2>
+					<h3>搬砖工</h3>
 					<p>搬完这波攒够钱我就回老家结婚</p>
 				</div>
 
-				<div class="col-lg-3">
+				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/cancer.png">
-					<h2>本命巨蟹座</h2>
+					<h3>本命巨蟹座</h3>
 					<p>白天傲娇逼，晚上玻璃心</p>
 				</div>
 
-				<div class="col-lg-3">
+				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/virgo.png">
-					<h2>上升处女座</h2>
-					<p></p>
+					<h3>上升处女座</h3>
+					<p>瑜伽垫必须和地板线对齐!</p>
+				</div>
+
+				<div class="col-md-3">
+					<img class="circleTag" src="/assets/image/cat.png">
+					<h3>爱猫</h3>
+					<p>人类在意所有不能被回馈的感情，并且非常希望所有感情都要被回应</p>
 				</div>
 
 			</div>
