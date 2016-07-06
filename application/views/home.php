@@ -34,8 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 		<div id="self-des" class="panel panel-default">
 			<div class="panel-body">
-				<h2>Royan Chen</h2>
-
+				<img class="titie-img" src="/assets/image/royanchen.png"/>
 				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/china.jpg">
 					<h3>天朝</h3>
