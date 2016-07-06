@@ -57,14 +57,50 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<p>我靠, 前面开车技术这么烂, 肯定是个女的!</p>
 
 				</div>
+
 				<div class="col-lg-3">
 					<img class="circleTag" src="/assets/image/operator.png">
 					<h2>搬砖工</h2>
 					<p>搬完这波攒够钱我就回老家结婚</p>
 				</div>
 
+				<div class="col-lg-3">
+					<img class="circleTag" src="/assets/image/cancer.png">
+					<h2>本命巨蟹座</h2>
+					<p>白天傲娇逼，晚上玻璃心</p>
+				</div>
+
+				<div class="col-lg-3">
+					<img class="circleTag" src="/assets/image/virgo.png">
+					<h2>上升处女座</h2>
+					<p></p>
+				</div>
+
 			</div>
 		</div>
 	</div>
+
+	<footer>
+		<div class="col-md-4 footer-span">
+			<span class="glyphicon glyphicon-earphone white">
+				<p class="footer-text">
+					131-XXXX-XXXX
+				</p>
+			</span>
+		</div>
+		<div class="col-md-4 footer-span">
+			<span class="glyphicon glyphicon-envelope white">
+				<p class="footer-text">
+					zhaoyang_chen@sfu.ca
+				</p>
+			</span>
+
+		</div>
+		<div class="col-md-4 footer-span">
+			<span class="glyphicon glyphicon-send white">
+			</span>
+		</div>
+	</footer>
+
 </body>
 </html>
