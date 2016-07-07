@@ -83,6 +83,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<p>人类在意所有不能被回馈的感情，并且非常希望所有感情都要被回应</p>
 				</div>
 
+				<div class="col-md-3">
+					<img class="circleTag" src="/assets/image/dumbbell.png">
+					<h3>兄贵养成中</h3>
+					<p>Be strong, physically, financially and mentally</p>
+				</div>
+
+				<div class="col-md-3">
+					<img class="circleTag" src="/assets/image/shirt.png">
+					<h3>衬衣控</h3>
+					<p>"你衣柜里除了衬衣还有什么?" "裤子"</p>
+				</div>
+
+				<div class="col-md-3">
+					<img class="circleTag" src="/assets/image/evil.png">
+					<h3>外貌协会</h3>
+					<p>只有肤浅的人才不以貌取人，世界的秘密在于表象，而非内里。</p>
+					<p>（The Picture of Dorian Gray）</p>
+				</div>
+
 			</div>
 		</div>
 	</div>
