@@ -17,8 +17,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
 		<div>
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="#">藏锋</a></li>
-				<li ><a href="#">昭言</a></li>
+				<li class="active"><a href="/">藏锋</a></li>
+				<li ><a href="/zhaoyan">昭言</a></li>
 				<li ><a href="#">埋名</a></li>
 				<li ><a href="#">莳花</a></li>
 				<li ><a href="#">聆夜</a></li>
@@ -86,7 +86,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/dumbbell.png">
 					<h3>兄贵养成中</h3>
-					<p>Be strong, physically, financially and mentally</p>
+					<p>蛋白质! 蛋白质!! 蛋白质!!!</p>
 				</div>
 
 				<div class="col-md-3">
