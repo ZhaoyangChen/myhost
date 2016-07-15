@@ -86,7 +86,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="col-md-3">
 					<img class="circleTag" src="/assets/image/dumbbell.png">
 					<h3>兄贵养成中</h3>
-					<p>蛋白质! 蛋白质!! 蛋白质!!!</p>
+					<p>
+						Fifteen percent concentrated power of will.
+						Five percent pleasure, fifty percent pain.
+					</p>
 				</div>
 
 				<div class="col-md-3">

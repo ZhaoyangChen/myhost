@@ -45,14 +45,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div class="well sentence_container">
 					<p>少年啊，爱一个人，那门是窄的，那路是长的。生活鸡毛狗血，爱情深拂憧憬，你无法回避一些残酷，正如你无法轻取想要的幸福。</p>
 					<div class="sentence_source">
-						<p>── 唐 《放妻协议》<p>
+						<p>── 佚名<p>
 					</div>
 				</div>
 
 				<div class="well sentence_container">
-					<p>解怨释结，更莫相憎。一别两宽，各生欢喜</p>
+					<p>我是一个矛盾到分裂的人, 听到前任过的不好的消息, 一面咬牙切齿的快意, 一面想要从难过中逃脱</p>
 					<div class="sentence_source">
-						<p>── 唐 《放妻协议》<p>
+						<p>── 佚名<p>
 					</div>
 				</div>
 			</div>
