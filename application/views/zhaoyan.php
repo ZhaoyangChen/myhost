@@ -55,6 +55,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<p>── 佚名<p>
 					</div>
 				</div>
+
+				<div class="well sentence_container">
+					<p>Some say love it is a razor, That leaves your soul to bleed</p>
+					<div class="sentence_source">
+						<p>── 《The Rose》Amanda McBroom<p>
+					</div>
+				</div>
 			</div>
 
 			<div id="hai" class="tab-pane fade in">
