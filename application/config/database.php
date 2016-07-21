@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'username' => 'root',
+	'password' => 'czy1303515',
+	'database' => 'sql_myhost',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -94,3 +94,14 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
+$db['eloquent'] = [
+	'driver'    => 'mysql',
+	'host'      => 'localhost',
+	'database'  => 'sql_myhost',
+	'username'  => 'sql_myhost',
+	'password'  => 'czy1303515',
+	'charset'   => 'utf8',
+	'collation' => 'utf8_general_ci',
+	'prefix'    => ''
+];
