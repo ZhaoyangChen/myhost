@@ -1,0 +1,1 @@
+$('document').ready(function(){	var homePageNum = 3;	setInterval(changeHeaderImg, 4000);	function changeHeaderImg() {		var num = 1 + Math.floor(Math.random() * homePageNum);		$('.page-header').css('background-image', 'url("/assets/image/yanye_' + num + '.jpg")');	}});

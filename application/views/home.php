@@ -8,6 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<script src="assets/js/jquery-3.0.0.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/home.js"></script>
 
 	<meta charset="utf-8">
 	<title>Royan's</title>
