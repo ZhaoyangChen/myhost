@@ -11,6 +11,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<script src="assets/js/home.js"></script>
 
 	<meta charset="utf-8">
+	<meta name="keywords" content="个人博客,RoyanChen,陈赵阳,RoyanChen个人博客,陈赵阳个人博客">
+	<meta name="keywords" content="陈赵阳博客,个人原创网站">
 	<title>Royan's</title>
 </head>
 
