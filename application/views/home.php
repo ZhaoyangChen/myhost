@@ -17,6 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 
 <body>
+	<div class="se-pre-con"></div>
 	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
 		<div>
 			<ul class="nav navbar-nav">
