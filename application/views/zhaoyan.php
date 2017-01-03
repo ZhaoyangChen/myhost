@@ -39,7 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<?php
 					foreach (sentences::where('category', 'literature')->get() as $item) {
 						echo "<div class=\"well sentence_container\">
-								<p>{$item->content}</p>
+								<pre>{$item->content}</pre>
 								<div class=\"sentence_source\">
 									<p>── {$item->author}<p>
 								</div>
@@ -52,7 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<?php
 				foreach (sentences::where('category', 'void')->get() as $item) {
 					echo "<div class=\"well sentence_container\">
-								<p>{$item->content}</p>
+								<pre>{$item->content}</pre>
 								<div class=\"sentence_source\">
 									<p>── {$item->author}<p>
 								</div>
@@ -65,7 +65,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<?php
 				foreach (sentences::where('category', 'life')->get() as $item) {
 					echo "<div class=\"well sentence_container\">
-								<p>{$item->content}</p>
+								<pre>{$item->content}</pre>
 								<div class=\"sentence_source\">
 									<p>── {$item->author}<p>
 								</div>
@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<?php
 				foreach (sentences::where('category', 'lyric')->get() as $item) {
 					echo "<div class=\"well sentence_container\">
-								<p>{$item->content}</p>
+								<pre>{$item->content}</pre>
 								<div class=\"sentence_source\">
 									<p>── {$item->author}<p>
 								</div>
