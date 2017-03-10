@@ -1,4 +1,4 @@
 phpMyAdmin/
 .htaccess
 .idea/
-application/config/database.php
+application/config/
