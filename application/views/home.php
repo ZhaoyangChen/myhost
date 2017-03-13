@@ -18,6 +18,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <body>
 	<div class="se-pre-con"></div>
+	<div class="panel panel-default update-log">
+		<div class="panel-body">
+			<h4>更新日志</h4>
+			<p>2017-03-11 修复图片闪烁问题</p>
+			<p>2017-03-13 添加更新日志</p>
+		</div>
+	</div>
 	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
 		<div>
 			<ul class="nav navbar-nav">
@@ -26,8 +33,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<li ><a href="#">埋名</a></li>
 				<li ><a href="#">莳花</a></li>
 				<li ><a href="#">聆夜</a></li>
+				<li class="update-log-trigger"><a><span class="glyphicon glyphicon-pushpin white"></span></a></li>
 			</ul>
 		</div>
+
 	</nav>
 
 	<div class="page-header">
