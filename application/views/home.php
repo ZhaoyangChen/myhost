@@ -23,6 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<h4>更新日志</h4>
 			<p>2017-03-11 修复图片闪烁问题</p>
 			<p>2017-03-13 添加更新日志</p>
+			<hr>
+			<h4>愿望单</h4>
+			<p>访问者注册登录系统</p>
+			<p>美化昭言页面UI及交互</p>
+
 		</div>
 	</div>
 	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
