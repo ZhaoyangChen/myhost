@@ -48,7 +48,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<img src="/assets/image/yanye_4.jpg">
 		<img src="/assets/image/yanye_2.jpg">
 		<img src="/assets/image/yanye_3.jpg">
-		<img src="/assets/image/yanye_1.jpg">
 	</div>
 
 	<div class="page-body">
