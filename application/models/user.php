@@ -1,0 +1,1 @@
+<?phpdefined('BASEPATH') OR exit('No direct script access allowed');class user extends Illuminate\Database\Eloquent\Model{	const ADMIN = 1;	const GUEST = 0;}

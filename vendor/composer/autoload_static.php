@@ -87,7 +87,10 @@ class ComposerStaticIniteefd86ee66de35623ef9d2b6ced5d6a1
     );
 
     public static $classMap = array (
+        'GeetestLib' => __DIR__ . '/../..' . '/application/libraries/geetest/GeetestLib.php',
+        'UserOperator' => __DIR__ . '/../..' . '/application/libraries/User/UserOperator.php',
         'sentences' => __DIR__ . '/../..' . '/application/models/sentences.php',
+        'user' => __DIR__ . '/../..' . '/application/models/user.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

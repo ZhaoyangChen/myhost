@@ -1,6 +1,11 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+define("CAPTCHA_ID", "df31dbe5dcab862ad68d0383e40df03f");
+define("PRIVATE_KEY", "c877faf04905e8331589b8a548aa7ff1");
+
+date_default_timezone_set('Asia/Hong_Kong');
+
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -422,7 +427,7 @@ $config['standardize_newlines'] = FALSE;
 |          for backwards compatibility purposes!
 |
 */
-$config['global_xss_filtering'] = FALSE;
+$config['global_xss_filtering'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------

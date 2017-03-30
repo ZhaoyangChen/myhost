@@ -6,5 +6,8 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'GeetestLib' => $baseDir . '/application/libraries/geetest/GeetestLib.php',
+    'UserOperator' => $baseDir . '/application/libraries/User/UserOperator.php',
     'sentences' => $baseDir . '/application/models/sentences.php',
+    'user' => $baseDir . '/application/models/user.php',
 );
