@@ -4,13 +4,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="assets/css/sign.css" />
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/assets/css/sign.css" />
 
-	<script src="assets/js/jquery-3.0.0.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/sign.js"></script>
-	<script src="assets/js/jquery.form.min.js"></script>
+	<script src="/assets/js/jquery-3.0.0.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js"></script>
+	<script src="/assets/js/sign.js"></script>
+	<script src="/assets/js/jquery.form.min.js"></script>
 
 	<script src="http://static.geetest.com/static/tools/gt.js"></script>
 
