@@ -42,8 +42,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<li ><a href="#">聆夜</a></li>
 				<li class="update-log-trigger"><a><span class="glyphicon glyphicon-pushpin white"></span></a></li>
 				<div class="user-panel">
-					<a href="/sign#up">注册</a>
-					<a href="/sign#in">登录</a>
+					<?php
+						session_start();
+						if (isset($_SESSION['user'])) {
+							echo "<a href=''>欢迎! {$_SESSION['user']}</a>";
+						} else {
+							echo "<a href=\"/sign#up\">注册</a><a href=\"/sign#in\">登录</a>";
+						}
+					?>
+
 				</div>
 			</ul>
 		</div>
