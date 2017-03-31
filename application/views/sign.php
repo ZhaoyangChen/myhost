@@ -19,6 +19,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 
 <body>
+	<div class="info-mask" style="display: none">
+		<h1 id="res-info"><h1>
+		<object type="application/x-shockwave-flash" style="outline:none;" data="http://cdn.abowman.com/widgets/hamster/hamster.swf?" width="300" height="225"><param name="movie" value="http://cdn.abowman.com/widgets/hamster/hamster.swf?"></param><param name="AllowScriptAccess" value="always"></param><param name="wmode" value="opaque"></param></object>
+	</div>
 	<div class="main">
 		<div class="sign-panel">
 			<div class="index-tab-navs">

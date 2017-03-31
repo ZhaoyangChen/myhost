@@ -40,6 +40,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<li ><a href="#">莳花</a></li>
 				<li ><a href="#">聆夜</a></li>
 				<li class="update-log-trigger"><a><span class="glyphicon glyphicon-pushpin white"></span></a></li>
+				<div class="user-panel">
+					<a href="/sign#up">注册</a>
+					<a href="/sign#in">登录</a>
+				</div>
 			</ul>
 		</div>
 
