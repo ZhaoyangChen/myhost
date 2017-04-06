@@ -155,7 +155,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="col-md-4 footer-span">
 			<span class="glyphicon glyphicon-envelope white">
 				<p class="footer-text">
-					zhaoyang_chen@sfu.ca
+					<a href="mailto:zhaoyang_chen@sfu.ca">zhaoyang_chen@sfu.ca</a>
 				</p>
 			</span>
 
