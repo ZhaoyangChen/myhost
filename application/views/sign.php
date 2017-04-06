@@ -35,16 +35,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<form id="sign-in-form" action="/api/user" method="post">
 				<div class="group-inputs" id="signin-inputs">
 					<input type="text" name="email" required="required" placeholder="邮箱">
-					<input type="text" name="password" required="required" placeholder="密码">
+					<input type="password" name="password" required="required" placeholder="密码">
 					<button id="sign-in-btn" type="submit" class="btn btn-primary">登录</button>
 				</div>
 			</form>
 
 			<form id="sign-up-form" action="/api/user" method="post">
 				<div class="group-inputs" id="signup-inputs">
-					<input type="text" name="email" required="required" placeholder="邮箱">
+					<input type="email" name="email" required="required" placeholder="邮箱">
 					<input type="text" name="nick"  required="required" placeholder="昵称">
-					<input type="text" name="password" required="required" placeholder="密码">
+					<input type="password" name="password" required="required" placeholder="密码">
 
 					<div id="embed-captcha"></div>
 					<p id="wait" class="show">正在加载验证码......</p>
